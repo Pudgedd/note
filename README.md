@@ -1,4 +1,4 @@
-Just for learning~(-̇᷇̂ᴥ ̇᷇̂-) Θ̵̵̵̤Θ᷆ ʃ ̂͜•̄ ̱̩̩̩̂ ̄͜►
+Just for learning~(`・ω・´) 
 
 ## 0-Programming Language
 
