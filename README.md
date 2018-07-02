@@ -1,3 +1,5 @@
+Just for learning~(#^.^#)
+
 ## 0-Programming Language
 
 ## 1-OS
