@@ -5,6 +5,6 @@ Just for learning~(`・ω・´)
 ## 1-OS
 
 ## 2--DataBase
-* | [MySql](http://example.com/) | [Redis](https://github.com/Pudgedd/blog/wiki/Redis) | [Oracle](http://example.com/) |
+* | [MySql](http://example.com/) | [Redis](https://github.com/Pudgedd/note/wiki/Redis) | [Oracle](http://example.com/) |
 
 ## 3-Tools
